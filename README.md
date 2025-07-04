@@ -1,20 +1,21 @@
-<h3 align="center">✨ Front-End Developer in Progress | Tech Lover | Future Rubyist ✨</h3>
+<h3 align="center">✨ Front-End Dev em Formação | Amante de Tech, One Piece e Pokémon ✨</h3>
 
 <p align="center">
-  🎨 Desenvolvedor Front-End em formação &nbsp;|&nbsp; 🚀 Apaixonado por tecnologia <br />
-  💛 JavaScript &nbsp;|&nbsp; 🎀 HTML/CSS &nbsp;|&nbsp; 🌟 Interessado em Ruby, Python & C++
+  🎨 Estudante de Desenvolvimento Web &nbsp;|&nbsp; 🤓 Explorando o mundo do código <br />
+  💻 Front-end &nbsp;|&nbsp; 🐍 Python (iniciante) &nbsp;|&nbsp; 🚀 Curioso por Ruby e C++
 </p>
 
 ---
 
-🛠️ Tech Stack
-| 💻 Linguagens | 🖌️ Front-End | 🚀 Em breve... |
-|--------------|---------------|----------------|
-| [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp,ruby,py&theme=dark)](https://skillicons.dev) |
+## 🛠️ Tech Stack
 
-| 🔧 Ferramentas | 🧠 Estudando | 📌 Curiosidades |
-|---------------|--------------|----------------|
-| [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,replit,markdown&theme=dark)](https://skillicons.dev) | Gosta de automação, programação limpa, interfaces bem feitas, Pokémon e One Piece |
+| 🎨 Front-End | 📚 Explorando |
+|-------------|---------------|
+| [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,cpp,ruby&theme=dark)](https://skillicons.dev) |
+
+| 🧰 Ferramentas | 🕹️ Sobre mim |
+|----------------|-------------|
+| [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,replit,figma&theme=dark)](https://skillicons.dev) | Fanático por Pokémon, One Piece e algumas outras coisas aí.<br>🎮 Switch: `SW-8010-0175-6836`<br>📱 3DS: `1178-4370-6650` |
 
 ---
 
